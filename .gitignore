@@ -1,0 +1,19 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# other files
+# ========================
+example.py
+example_2.py
+test.py
+tempCodeRunnerFile.py
