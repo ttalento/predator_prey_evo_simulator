@@ -1,4 +1,4 @@
-# Predator-Prey evolution simulator
+# Predator-Prey Evolution Simulator
 
 ## Overview
 A Pygame-based simulation with predator and prey entities that are born, reproduce, and die. Predators can move and eat. All events are statistically described.
